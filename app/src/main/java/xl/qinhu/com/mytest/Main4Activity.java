@@ -42,7 +42,7 @@ public class Main4Activity extends AppCompatActivity {
 
         mAdapter = new GridAdapter(this);
         mAdapter.setDatas(ItemDatas.getDatas(60));
-        mRecyclerView.setAdapter(mAdapter);
+
     }
 
     private void setListener() {
