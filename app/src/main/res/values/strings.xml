@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mytest</string>
+    <string name="send_to">hhahahahahhahahahaha</string>
+    <item name="tag_view_hold" type="id" />
+</resources>
